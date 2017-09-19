@@ -7,6 +7,7 @@ import {
 
 //includes
 import "./Assets/css/default.min.css";
+import "./Assets/computer.jpeg";
 
 //Components
 import Header from "./components/headerComponent/header";
