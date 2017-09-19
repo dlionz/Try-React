@@ -11,7 +11,7 @@ class Header extends Component {
       <header>
 
       <div className="logo">
-        LOGO
+        REACT!
       </div>
 
         <nav>
