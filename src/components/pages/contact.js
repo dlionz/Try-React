@@ -13,7 +13,8 @@ class Contact extends Component {
             </div>
             </div>
 
-          <div className="row col-md-auto">
+          <div className="card">
+            <div className="card-body">
             <form>
               <div className="form-group">
                 <label >Email address</label>
@@ -31,6 +32,7 @@ class Contact extends Component {
               </div>
               <button type="submit" className="btn btn-primary">Submit</button>
             </form>
+          </div>
           </div>
         </div>
 

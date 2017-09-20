@@ -9,13 +9,10 @@ class Header extends Component {
     return (
 
       <header>
-
       <div className="logo">
-        REACT!
+        <em>React</em>
       </div>
-
         <nav>
-
           <ul>
             <li className="first">
               <Link to="/">Home</Link>
@@ -27,9 +24,7 @@ class Header extends Component {
               <Link to="/Contact">Contact</Link>
             </li>
           </ul>
-
         </nav>
-
       </header>
 
     );
